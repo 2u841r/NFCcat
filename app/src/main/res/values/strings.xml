@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Meow Cat</string>
+    <string name="service_desc">Meow over NFC</string>
+    <string name="aid_group_desc">Meow AID</string>
+
+    <string name="button_meow">Meow</string>
+    <string name="button_enable_nfc">Turn on NFC</string>
+
+    <string name="status_ready">Press Meow, then tap phones together</string>
+    <string name="status_armed">Armed. Tap phones back to back</string>
+    <string name="status_no_nfc">This phone has no NFC. It can\'t send or receive a meow.</string>
+    <string name="status_nfc_off">NFC is off. Turn it on to meow.</string>
+    <string name="status_sent">Meow sent</string>
+    <string name="status_no_cat">No cat found</string>
+</resources>
