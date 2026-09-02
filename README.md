@@ -1,5 +1,7 @@
 # NFCcat
 
+<img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="96" height="96" alt="NFCcat icon">
+
 Point one phone at another, press a button, the other phone goes *meow*.
 
 Two Android phones, one NFC tap, one cat noise. No pairing, no network, no accounts. The
