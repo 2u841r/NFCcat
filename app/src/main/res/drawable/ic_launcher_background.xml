@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Matches the orange gradient of the source artwork, sampled top and bottom. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:angle="270"
+        android:startColor="@color/ic_launcher_start"
+        android:endColor="@color/ic_launcher_end"
+        android:type="linear" />
+</shape>

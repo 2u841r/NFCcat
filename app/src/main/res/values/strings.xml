@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Meow Cat</string>
+    <string name="app_name">NFCcat</string>
     <string name="service_desc">Meow over NFC</string>
     <string name="aid_group_desc">Meow AID</string>
 
