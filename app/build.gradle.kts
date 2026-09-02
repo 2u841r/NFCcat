@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.zizdjbd.meowcat"
+    namespace = "com.zubairiz.nfccat"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.zizdjbd.meowcat"
+        applicationId = "com.zubairiz.nfccat"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

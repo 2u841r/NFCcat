@@ -1,4 +1,4 @@
-package com.zizdjbd.meowcat
+package com.zubairiz.nfccat
 
 import android.content.Intent
 import android.nfc.NfcAdapter
